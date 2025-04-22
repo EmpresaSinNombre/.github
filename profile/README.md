@@ -2,8 +2,9 @@
 
 Una comunidad de innovación tecnológica donde las ideas se convierten en soluciones reales.
 
-![](https://github-readme-stats.vercel.app/api?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🧭 Visión
 
