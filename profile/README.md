@@ -2,6 +2,9 @@
 
 Una comunidad de innovación tecnológica donde las ideas se convierten en soluciones reales.
 
+![](https://github-readme-stats.vercel.app/api?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmpresaSinNombre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🧭 Visión
 
 Ser una empresa tecnológica multidisciplinaria reconocida en Chile por impulsar el desarrollo de jóvenes talentos y por generar soluciones que impacten áreas críticas como la ciberseguridad, la inteligencia artificial, la educación digital y la creación multimedia.
